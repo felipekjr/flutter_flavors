@@ -1,2 +1,2 @@
-# flutter_flavors
-Product flavors in flutter app
+# Flavorizing the app on Android and iOS
+Post on medium: 
